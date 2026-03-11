@@ -46,6 +46,12 @@
       "url": "https://github.com/ASAOddball1/Java-to-MLCE-Texture-Pack-Converter/tree/main",
       "priority": 7,
       "tag": "converter"
+    },
+    {
+      "name": "KaDerox / Axo McLCE ModLoader",
+      "url": "https://github.com/KaDerox/Axo-McLCE-ModLoader",
+      "priority": 8,
+      "tag": "modloader"
     }
   ]
 }
