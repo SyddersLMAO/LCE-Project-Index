@@ -76,6 +76,12 @@
       "url": "https://github.com/neoapps-dev/legacy-launcher",
       "priority": 12,
       "tag": "launcher"
+    },
+    {
+      "name": "Synomal / Flint",
+      "url": "https://github.com/synomal/Flint",
+      "priority": 9,
+      "tag": "launcher"
     }
   ]
 }
