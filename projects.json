@@ -14,8 +14,8 @@
       "mirror": "https://git.minecraftlegacy.com/backups/MinecraftConsoles"
     },
     {
-      "name": "4jcraft / 4jcraft",
-      "url": "https://github.com/4jcraft/4jcraft",
+      "name": "Portable LCE (Formerly 4jcraft)",
+      "url": "https://github.com/portable-lce/portable-lce",
       "priority": 3,
       "tag": "game",
       "mirror": "https://git.minecraftlegacy.com/backups/4jcraft"
