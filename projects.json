@@ -106,6 +106,12 @@
       "url": "https://github.com/xgui4/Legacy-Qt-Launcher",
       "priority": 17,
       "tag": "launcher"
+    },
+    {
+      "name": "SyddersLMAO / LCEList",
+      "url": "https://lcelist.xyz",
+      "priority": 18,
+      "tag": "contet distribution"
     }
   ]
 }
